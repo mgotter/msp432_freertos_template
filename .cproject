@@ -4,9 +4,9 @@
 		<cconfiguration id="com.ti.ccstudio.buildDefinitions.MSP432.Debug.452459110">
 			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.ti.ccstudio.buildDefinitions.MSP432.Debug.452459110" moduleId="org.eclipse.cdt.core.settings" name="Debug">
 				<macros>
-					<stringMacro name="COM_TI_SIMPLELINK_MSP432_SDK_INSTALL_DIR" type="VALUE_PATH_DIR" value="/home/gottermk/ti/simplelink_msp432p4_sdk_2_10_00_14"/>
+					<stringMacro name="COM_TI_SIMPLELINK_MSP432_SDK_INSTALL_DIR" type="VALUE_PATH_DIR" value="/home/${USER}/ti/simplelink_msp432p4_sdk_2_10_00_14"/>
 					<stringListMacro name="COM_TI_SIMPLELINK_MSP432_SDK_INSTALL_DIR_REPOS" type="VALUE_PATH_DIR_LIST">
-						<value name="/home/gottermk/ti/simplelink_msp432p4_sdk_2_10_00_14/source"/>
+						<value name="/home/${USER}/ti/simplelink_msp432p4_sdk_2_10_00_14/source"/>
 					</stringListMacro>
 				</macros>
 				<externalSettings/>
