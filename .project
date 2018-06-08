@@ -3,6 +3,7 @@
 	<name>msp432_freertos_template</name>
 	<comment></comment>
 	<projects>
+		<project>freertos_builds_MSP_EXP432P401R_release_ccs</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
